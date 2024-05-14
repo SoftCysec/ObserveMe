@@ -1,8 +1,6 @@
-Sure, here's a README file for your reminder application in markdown format:
-
 ---
 
-# Reminder App
+# ObserveMe
 
 Reminder App is a cross-platform application built with Flutter that reminds users of specific messages when they enter social media platforms, try calling someone, or try to talk to someone. The app also allows users to set daily reminders for the morning, noon, and evening and integrates a calendar for event scheduling, alerts, and task management. It is designed to run on Android, iOS, Web, Linux, macOS, and Windows.
 
