@@ -118,7 +118,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 - Thanks to the Flutter community for their amazing tools and resources.
-
----
-
-This README file provides an overview of the application, its features, project structure, installation instructions, and more. Feel free to customize it further based on your project's specifics.
